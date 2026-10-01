@@ -1,6 +1,6 @@
 "input functions"
 
-print("Follow the Instructions and enter numbers only","Enter your Date of Birth one by one")
+print("Follow the Instructions and enter numbers only\nEnter your Date of Birth one by one")
 dob_year = int(input("Enter year: "))
 dob_month = int(input("Enter month: "))
 dob_date = int(input("Enter date: "))
